@@ -32,15 +32,18 @@ public class TC003LogoutTest extends BaseClass{
 			lp.passwordNameField.sendKeys(p.getProperty("password"));
 			logger.info("***Click on Login BTN***");
 			lp.loginBTN.click();
-			Thread.sleep(4000);
 			
-			/*if(lp.confirmationMSGValidation()==true)
+			
+			if(lp.confirmationMSGValidation()==true)
 			{
 				logger.info("***Click on ok BTN***");
 				lp.clickOnOkBTN();
 				logger.info("***Login Successful***");
-				Thread.sleep(3000);
-			}*/
+				Thread.sleep(2000);
+			}
+			else {
+				logger.info("No Current session");
+			}
 			WorkflowPageORHomePage whp=new WorkflowPageORHomePage(driver);
 			logger.info("***Validate the username in the home page***");
 				if(whp.getUserName().equals(p.getProperty("userName")))
@@ -51,6 +54,7 @@ public class TC003LogoutTest extends BaseClass{
 					logger.info("***Click on logout button***");
 					whp.btn_Logout.click();
 				}
+				Assert.assertEquals(landingPage.logoTest(), true);
 			}
 		
 		

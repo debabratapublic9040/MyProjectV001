@@ -1,10 +1,15 @@
 package testCases;
 
+import java.time.Duration;
+
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.BaseClass;
 import pageObjects.LandingPage;
+import utilities.WaitUtils;
 
 public class TC001LandingPageLogoTest extends BaseClass{
 	
@@ -13,6 +18,7 @@ public class TC001LandingPageLogoTest extends BaseClass{
 	{
 		try {
 		LandingPage lp=new LandingPage(driver);
+	
 		logger.info("***Validate the logo***");
 		Assert.assertEquals(lp.logoTest(), true);
 		//Assert.assertEquals(lp.logoTest(), true,"Login Failed");

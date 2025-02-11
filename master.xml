@@ -12,8 +12,9 @@
 	  <parameter name="browser" value="chrome"/>
   
 	    <classes>
-	      <class name="testCases.TC001LandingPageLogoTest"/>
-	      <class name="testCases.TC002LoginTest"/>
+	   
+	    <class name="testCases.TC006SetPriorityTest"/>
+	    
 	    </classes>
     
   	</test> <!-- Test -->

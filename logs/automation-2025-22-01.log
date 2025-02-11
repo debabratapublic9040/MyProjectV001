@@ -1,0 +1,579 @@
+09:14:14.038 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5398edd0: 1 ms
+09:14:23.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:14:23.722 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+09:14:30.649 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+09:14:32.264 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+09:14:36.346 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+09:14:36.471 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+09:14:36.640 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+09:14:36.695 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+09:14:36.777 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+09:14:36.831 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+09:14:36.902 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+09:14:45.688 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+09:14:45.728 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+09:14:52.945 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on toggle user dropdown***
+09:14:54.077 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Test Case Failed***
+09:14:54.220 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+09:15:52.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:15:53.194 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+09:15:54.536 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+09:15:56.329 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+09:16:00.293 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+09:16:00.417 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+09:16:00.578 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+09:16:00.632 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+09:16:00.719 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+09:16:00.767 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+09:16:00.828 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+09:16:05.815 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+09:16:06.049 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+09:16:13.319 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on toggle user dropdown***
+09:16:13.628 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on logout button***
+09:16:17.333 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:23:58.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:24:00.268 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:24:26.379 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:24:28.505 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:24:32.122 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:24:32.613 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:24:32.778 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:24:32.824 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:24:32.893 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:24:32.925 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:24:33.028 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:24:37.613 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:24:38.711 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:24:45.920 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:33:22.543 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:33:22.797 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:33:25.016 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:33:26.466 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:33:30.009 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:33:30.134 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:33:30.318 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:33:30.367 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:33:30.450 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:33:30.498 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:33:30.563 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:33:34.916 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:33:34.980 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:33:42.028 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:36:13.130 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:36:13.401 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:36:14.828 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:36:16.828 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:36:20.483 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:36:20.683 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:36:20.851 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:36:20.894 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:36:20.973 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:36:21.023 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:36:21.091 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:36:25.720 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:36:25.778 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:36:33.153 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:37:43.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:37:44.174 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:37:45.599 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:37:46.841 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:37:50.298 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:37:50.420 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:37:50.577 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:37:50.628 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:37:50.707 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:37:50.757 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:37:50.822 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:37:55.214 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:37:55.256 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:38:01.709 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:38:36.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:38:37.220 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:38:38.488 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:38:39.986 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:38:43.171 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:38:43.292 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:38:43.450 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:38:43.503 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:38:43.581 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:38:43.641 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:38:43.715 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:38:48.021 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:38:49.491 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:38:56.752 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on toggle user dropdown***
+08:38:57.314 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on logout button***
+08:39:00.297 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:40:19.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:40:19.650 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:40:20.992 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:40:22.028 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:40:25.812 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:40:25.942 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:40:26.092 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:40:26.150 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:40:26.248 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:40:26.296 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:40:26.360 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:40:31.156 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:40:31.201 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:40:37.066 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on toggle user dropdown***
+08:40:37.868 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on logout button***
+08:40:49.001 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Test Case Failed***
+08:40:49.139 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:41:53.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:41:53.911 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ****Open Browser****
+08:41:55.446 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Delete All Cookies***
+08:41:57.057 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Launch the URL***
+08:42:00.189 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Maximize the browser window***
+08:42:00.338 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login link***
+08:42:00.505 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear user name field***
+08:42:00.564 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Username***
+08:42:00.642 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Clear password field***
+08:42:00.722 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Add Password***
+08:42:00.785 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on Login BTN***
+08:42:03.153 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Validate the username in the home page***
+08:42:04.579 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Switch to the workflow***
+08:42:11.677 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on toggle user dropdown***
+08:42:12.371 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Click on logout button***
+08:42:16.666 [main] INFO  testCases.TC005SwitchToAGNGPrefundingWorkflowTest - ***Close the browser***
+08:45:10.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:45:38.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:45:39.122 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+08:45:40.547 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+08:45:42.171 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+08:45:45.317 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+08:45:45.451 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+08:45:45.613 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+08:45:45.667 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+08:45:45.748 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+08:45:45.800 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+08:45:45.871 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+08:45:51.604 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+08:45:51.651 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+08:46:00.836 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+08:46:00.908 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+08:46:04.840 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:03:15.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:03:15.317 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:03:16.769 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:03:18.593 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:03:21.946 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:03:22.064 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:03:22.251 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:03:22.308 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:03:22.384 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:03:22.440 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:03:22.501 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:03:27.629 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:03:27.678 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:03:41.866 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+09:03:42.004 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:04:11.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:04:12.148 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:04:13.549 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:04:14.553 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:04:18.104 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:04:18.225 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:04:18.383 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:04:18.435 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:04:18.515 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:04:18.564 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:04:18.628 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:04:21.019 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:04:23.487 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:04:32.809 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:06:03.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:06:04.074 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:06:05.506 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:06:06.974 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:06:10.266 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:06:10.398 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:06:10.550 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:06:10.603 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:06:10.685 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:06:10.741 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:06:10.808 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:06:13.560 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:06:14.412 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:06:28.790 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+09:06:28.852 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+09:06:31.630 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:25:37.692 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.699 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.701 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+09:25:37.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+09:25:37.719 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.720 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.720 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.720 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.721 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.721 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.724 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.724 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.726 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.726 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.726 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.727 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.727 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.728 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.729 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.729 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.729 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:25:37.729 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:25:37.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PNB\AppData\Local\Temp\testng-eclipse--1141321956\testng-customsuite.xml
+
+09:25:37.752 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+09:25:37.948 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@21ec5d87: 94 ms
+09:25:37.984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7a56812e: 34 ms
+09:25:37.998 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@18cc679e: 14 ms
+09:25:38.011 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5cc5b667: 11 ms
+09:25:38.021 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@9cd25ff: 10 ms
+09:25:38.022 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@27e0f2f5: 0 ms
+09:26:09.617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:26:09.851 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:26:15.212 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:26:16.375 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:26:20.955 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:26:21.073 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:26:21.222 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:26:21.272 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:26:21.355 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:26:21.402 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:26:21.466 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:26:25.462 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:26:25.508 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:26:33.362 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+09:26:33.424 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+09:26:36.114 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:42:44.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:42:44.245 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:42:45.948 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:42:47.314 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:42:52.464 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:42:52.563 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:42:52.742 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:42:52.793 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:42:52.876 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:42:52.925 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:42:52.989 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:43:00.197 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:43:00.245 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:43:15.883 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+09:43:16.039 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:44:59.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:44:59.736 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:45:01.187 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:45:02.681 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:45:11.768 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:45:11.886 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:45:12.031 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:45:12.083 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:45:12.171 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:45:12.220 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:45:12.283 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:45:14.639 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:45:24.607 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:45:39.532 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:55:37.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:55:37.825 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:55:39.537 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:55:40.673 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:55:46.706 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:55:46.827 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:55:46.997 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:55:47.051 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:55:47.134 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:55:47.185 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:55:47.248 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:55:50.158 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:55:56.171 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:55:57.245 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+09:55:57.382 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+09:57:31.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:57:31.364 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+09:57:32.881 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+09:57:34.311 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+09:57:38.194 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+09:57:38.303 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+09:57:38.491 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+09:57:38.541 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+09:57:38.624 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+09:57:38.672 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+09:57:38.737 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+09:57:41.319 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+09:57:42.168 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+09:57:49.429 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+09:57:49.463 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+09:57:50.530 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+09:57:50.730 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+10:00:17.822 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+10:00:18.052 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+10:00:19.823 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+10:00:21.218 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+10:00:26.172 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+10:00:26.302 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+10:00:26.484 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+10:00:26.531 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+10:00:26.616 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+10:00:26.663 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+10:00:26.750 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+10:00:29.093 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+10:00:32.597 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+10:00:39.839 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+10:00:39.867 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+10:00:45.956 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+10:00:46.037 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+10:00:48.100 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+10:00:50.340 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+10:00:50.426 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+10:00:50.443 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+10:00:50.627 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+10:07:55.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+10:07:55.802 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+10:07:57.309 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+10:07:58.799 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+10:08:01.886 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+10:08:02.006 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+10:08:02.165 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+10:08:02.222 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+10:08:02.312 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+10:08:02.368 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+10:08:02.432 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+10:08:05.241 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+10:08:07.481 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+10:08:15.121 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+10:08:15.155 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+10:08:17.286 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+10:08:17.371 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+10:08:17.371 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+10:08:17.813 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+10:08:21.160 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+10:13:07.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+10:13:08.117 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+10:13:09.777 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+10:13:11.047 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+10:13:15.116 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+10:13:15.227 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+10:13:15.390 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+10:13:15.444 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+10:13:15.529 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+10:13:15.582 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+10:13:15.648 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+10:13:20.740 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+10:13:20.785 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+10:13:27.046 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+10:13:27.063 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+10:13:33.128 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+10:13:33.202 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+10:13:35.271 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+10:13:36.803 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+10:13:36.822 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+10:13:36.985 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+10:20:44.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+10:20:45.050 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+10:20:46.442 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+10:20:48.238 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+10:20:51.649 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+10:20:51.776 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+10:20:51.921 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+10:20:51.976 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+10:20:52.058 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+10:20:52.108 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+10:20:52.170 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+10:20:54.539 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+10:20:55.635 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+10:21:03.169 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+10:21:03.187 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+10:21:09.179 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+10:21:09.255 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+10:21:11.331 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+10:21:14.993 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+10:21:17.116 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+10:21:17.241 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+10:21:17.308 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+10:21:20.636 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+10:24:42.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+10:24:43.200 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+10:24:44.694 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+10:24:46.783 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+10:24:50.098 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+10:24:50.210 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+10:24:50.382 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+10:24:50.438 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+10:24:50.523 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+10:24:50.580 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+10:24:50.645 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+10:24:53.273 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+10:24:54.128 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+10:25:01.423 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+10:25:01.440 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+10:25:07.402 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+10:25:07.510 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+10:25:09.577 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+10:25:13.502 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+10:25:15.581 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+10:25:15.738 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+10:25:15.807 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+10:25:19.223 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+08:18:50.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:18:50.842 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+08:19:02.935 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+08:19:05.320 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+08:19:09.906 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+08:19:10.237 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+08:19:10.397 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+08:19:10.447 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+08:19:10.550 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+08:19:10.617 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+08:19:10.693 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+08:19:13.639 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+08:19:16.356 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+08:19:23.589 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+08:19:23.622 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+08:19:29.695 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+08:19:29.777 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+08:19:31.853 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+08:19:36.199 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+08:19:38.277 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+08:19:38.292 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+08:19:38.358 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+08:19:41.238 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+08:49:14.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:49:14.548 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+08:49:19.586 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+08:49:22.736 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+08:49:23.572 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+08:49:26.781 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+08:49:27.112 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+08:49:27.178 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+08:49:27.307 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+08:49:27.340 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+08:49:27.399 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+08:49:32.405 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+08:49:32.514 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+08:49:47.669 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+08:49:47.958 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+08:50:10.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+08:50:10.772 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+08:50:12.356 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+08:50:15.457 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+08:50:18.550 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+08:50:18.665 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+08:50:18.837 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+08:50:18.890 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+08:50:18.973 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+08:50:19.020 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+08:50:19.082 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+08:50:21.477 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+08:50:23.047 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+08:50:30.246 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+08:50:32.766 [main] INFO  testCases.TC007SearchLoan - ***Click on toggle user dropdown***
+08:50:33.839 [main] INFO  testCases.TC007SearchLoan - ***Click on logout button***
+08:50:36.823 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+09:01:43.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:01:43.629 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+09:01:50.455 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+09:01:53.988 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+09:01:58.031 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+09:01:58.653 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+09:01:59.253 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+09:01:59.312 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+09:01:59.633 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+09:01:59.664 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+09:01:59.731 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+09:02:02.125 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+09:02:04.477 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+09:02:11.623 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+09:02:12.630 [main] INFO  testCases.TC007SearchLoan - ***Click on toggle user dropdown***
+09:02:13.620 [main] INFO  testCases.TC007SearchLoan - ***Click on logout button***
+09:02:16.417 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+09:31:37.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+09:31:38.169 [main] INFO  testCases.TC008DateFilterTest - ****Open Browser****
+09:31:48.268 [main] INFO  testCases.TC008DateFilterTest - ***Delete All Cookies***
+09:31:49.837 [main] INFO  testCases.TC008DateFilterTest - ***Launch the URL***
+09:31:53.316 [main] INFO  testCases.TC008DateFilterTest - ***Maximize the browser window***
+09:31:53.496 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login link***
+09:31:53.651 [main] INFO  testCases.TC008DateFilterTest - ***Clear user name field***
+09:31:53.701 [main] INFO  testCases.TC008DateFilterTest - ***Add Username***
+09:31:53.775 [main] INFO  testCases.TC008DateFilterTest - ***Clear password field***
+09:31:53.816 [main] INFO  testCases.TC008DateFilterTest - ***Add Password***
+09:31:53.903 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login BTN***
+09:31:58.515 [main] INFO  testCases.TC008DateFilterTest - ***Validate the username in the home page***
+09:31:58.557 [main] INFO  testCases.TC008DateFilterTest - ***Switch to the workflow***
+09:32:04.817 [main] INFO  testCases.TC008DateFilterTest - ***Validate the workflow name***
+09:32:11.210 [main] INFO  testCases.TC008DateFilterTest - ***Click on toggle user dropdown***
+09:32:11.279 [main] INFO  testCases.TC008DateFilterTest - ***Click on logout button***
+09:32:14.426 [main] INFO  testCases.TC008DateFilterTest - ***Close the browser***
+16:22:18.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+16:22:18.889 [main] INFO  testCases.TC008DateFilterTest - ****Open Browser****
+16:22:29.374 [main] INFO  testCases.TC008DateFilterTest - ***Delete All Cookies***
+16:22:31.932 [main] INFO  testCases.TC008DateFilterTest - ***Launch the URL***

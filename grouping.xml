@@ -4,25 +4,30 @@
 
 	<groups>
 	 <run> 
+	  <include name="Master"/>
 	  <!--<include name="Smoke"/>-->
 	  <!-- <include name="Sanity"/>-->
 	  <!--<include name="Regression"/>-->
-	  <include name="Master"/>
 	  <!--<exclude name="Sanity"/>-->
 	 </run>
 	</groups>
 
-
    <listeners>
    <listener class-name="utilities.ExtentReportManager"/>
    </listeners>
+  
 
   <test thread-count="5" name="Test">
    <parameter name="os" value="window"/>
     <parameter name="browser" value="chrome"/>
      <classes>
-      <class name="testCases.TC001LandingPageLogoTest"/>
-      <class name="testCases.TC002LoginTest"/>
+        <class name="testCases.TC001LandingPageLogoTest"/>
+	    <class name="testCases.TC002LoginTest"/>
+	    <class name="testCases.TC003LogoutTest"/> 
+	    <class name="testCases.TC005SwitchToLuminateCDWWorkflowTest"/>
+	    <class name="testCases.TC006SetPriorityTest"/>
+	    <class name="testCases.TC007SearchLoan"/>
+	    <class name="testCases.TC008DateFilterTest"/>
      </classes>
     
   </test> <!-- Test -->

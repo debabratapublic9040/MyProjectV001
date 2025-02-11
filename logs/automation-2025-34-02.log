@@ -1,0 +1,624 @@
+17:30:09.368 [main] INFO  testCases.TC008DateFilterTest - ***Delete All Cookies***
+17:30:10.978 [main] INFO  testCases.TC008DateFilterTest - ***Launch the URL***
+17:30:14.005 [main] INFO  testCases.TC008DateFilterTest - ***Maximize the browser window***
+17:30:14.060 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login link***
+17:30:14.236 [main] INFO  testCases.TC008DateFilterTest - ***Clear user name field***
+17:30:14.291 [main] INFO  testCases.TC008DateFilterTest - ***Add Username***
+17:30:14.376 [main] INFO  testCases.TC008DateFilterTest - ***Clear password field***
+17:30:14.430 [main] INFO  testCases.TC008DateFilterTest - ***Add Password***
+17:30:14.507 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login BTN***
+17:30:20.239 [main] INFO  testCases.TC008DateFilterTest - ***Validate the username in the home page***
+17:30:20.280 [main] INFO  testCases.TC008DateFilterTest - ***Switch to the workflow***
+17:30:27.848 [main] INFO  testCases.TC008DateFilterTest - ***Validate the workflow name***
+17:30:27.875 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+17:30:32.995 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+17:30:34.111 [main] INFO  testCases.TC008DateFilterTest - ***click on go button***
+17:30:36.205 [main] INFO  testCases.TC008DateFilterTest - ***Click on toggle user dropdown***
+17:30:36.284 [main] INFO  testCases.TC008DateFilterTest - ***Click on logout button***
+17:30:38.877 [main] INFO  testCases.TC008DateFilterTest - ***Close the browser***
+17:33:18.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:33:18.650 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ****Open Browser****
+17:33:20.161 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Delete All Cookies***
+17:33:21.954 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Launch the URL***
+17:33:39.574 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Maximize the browser window***
+17:33:39.728 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login link***
+17:33:39.956 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear user name field***
+17:33:40.002 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Username***
+17:33:40.083 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear password field***
+17:33:40.133 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Password***
+17:33:40.198 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login BTN***
+17:33:49.540 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Validate the username in the home page***
+17:33:49.588 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Switch to the workflow***
+17:33:54.869 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on toggle user dropdown***
+17:34:00.333 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on logout button***
+17:34:03.598 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Close the browser***
+17:36:05.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:36:05.493 [main] INFO  testCases.TC001LandingPageLogoTest - ****Open Browser****
+17:36:06.981 [main] INFO  testCases.TC001LandingPageLogoTest - ***Delete All Cookies***
+17:36:08.204 [main] INFO  testCases.TC001LandingPageLogoTest - ***Launch the URL***
+17:36:12.679 [main] INFO  testCases.TC001LandingPageLogoTest - ***Maximize the browser window***
+17:36:12.794 [main] INFO  testCases.TC001LandingPageLogoTest - ***Validate the logo***
+17:36:12.845 [main] INFO  testCases.TC001LandingPageLogoTest - ***click on the login link***
+17:36:13.980 [main] INFO  testCases.TC001LandingPageLogoTest - ***Close the browser***
+17:36:14.179 [main] INFO  testCases.TC002LoginTest - ****Open Browser****
+17:36:15.164 [main] INFO  testCases.TC002LoginTest - ***Delete All Cookies***
+17:36:16.392 [main] INFO  testCases.TC002LoginTest - ***Launch the URL***
+17:36:19.868 [main] INFO  testCases.TC002LoginTest - ***Maximize the browser window***
+17:36:19.926 [main] INFO  testCases.TC002LoginTest - ***Click on Login link***
+17:36:20.111 [main] INFO  testCases.TC002LoginTest - ***Clear user name field***
+17:36:20.164 [main] INFO  testCases.TC002LoginTest - ***Add Username***
+17:36:20.251 [main] INFO  testCases.TC002LoginTest - ***Clear password field***
+17:36:20.301 [main] INFO  testCases.TC002LoginTest - ***Add Password***
+17:36:20.366 [main] INFO  testCases.TC002LoginTest - ***Click on Login BTN***
+17:36:27.554 [main] INFO  testCases.TC002LoginTest - ***Validate the username in the home page***
+17:36:27.595 [main] INFO  testCases.TC002LoginTest - ***Click on toggle user dropdown***
+17:36:27.659 [main] INFO  testCases.TC002LoginTest - ***Click on logout button***
+17:36:28.708 [main] INFO  testCases.TC002LoginTest - ***Close the browser***
+17:36:28.952 [main] INFO  testCases.TC003LogoutTest - ****Open Browser****
+17:36:30.001 [main] INFO  testCases.TC003LogoutTest - ***Delete All Cookies***
+17:36:31.174 [main] INFO  testCases.TC003LogoutTest - ***Launch the URL***
+17:36:35.915 [main] INFO  testCases.TC003LogoutTest - ***Maximize the browser window***
+17:36:35.958 [main] INFO  testCases.TC003LogoutTest - ***Click on Login link***
+17:36:36.131 [main] INFO  testCases.TC003LogoutTest - ***Clear user name field***
+17:36:36.183 [main] INFO  testCases.TC003LogoutTest - ***Add Username***
+17:36:36.275 [main] INFO  testCases.TC003LogoutTest - ***Clear password field***
+17:36:36.329 [main] INFO  testCases.TC003LogoutTest - ***Add Password***
+17:36:36.393 [main] INFO  testCases.TC003LogoutTest - ***Click on Login BTN***
+17:36:42.740 [main] INFO  testCases.TC003LogoutTest - ***Validate the username in the home page***
+17:36:42.785 [main] INFO  testCases.TC003LogoutTest - ***Click on toggle user dropdown***
+17:36:42.851 [main] INFO  testCases.TC003LogoutTest - ***Click on logout button***
+17:36:43.669 [main] INFO  testCases.TC003LogoutTest - ***Close the browser***
+17:36:43.891 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ****Open Browser****
+17:36:44.961 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Delete All Cookies***
+17:36:46.124 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Launch the URL***
+17:36:49.391 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Maximize the browser window***
+17:36:49.421 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login link***
+17:36:49.628 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear user name field***
+17:36:49.681 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Username***
+17:36:49.775 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear password field***
+17:36:49.820 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Password***
+17:36:49.894 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login BTN***
+17:36:54.790 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Validate the username in the home page***
+17:36:54.835 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Switch to the workflow***
+17:37:00.119 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on toggle user dropdown***
+17:37:03.460 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on logout button***
+17:37:06.905 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Close the browser***
+17:37:07.178 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+17:37:08.117 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+17:37:09.222 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+17:37:12.905 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+17:37:12.956 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+17:37:13.122 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+17:37:13.169 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+17:37:13.267 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+17:37:13.316 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+17:37:13.382 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+17:37:18.065 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+17:37:18.105 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+17:37:26.177 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+17:37:26.197 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+17:37:33.017 [main] INFO  testCases.TC006SetPriorityTest - ***Enter the loa number***
+17:37:33.117 [main] INFO  testCases.TC006SetPriorityTest - ***Click on setpriority BTN***
+17:37:35.183 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the order***
+17:37:39.740 [main] INFO  testCases.TC006SetPriorityTest - ***Click on loans to audit queue***
+17:37:41.820 [main] INFO  testCases.TC006SetPriorityTest - ***get the priority/rush loan number and validate the priority***
+17:37:41.927 [main] INFO  testCases.TC006SetPriorityTest - ***Click on toggle user dropdown***
+17:37:41.994 [main] INFO  testCases.TC006SetPriorityTest - ***Click on logout button***
+17:37:44.763 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+17:37:45.029 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:37:46.084 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:37:47.367 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:37:50.434 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:37:50.481 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:37:50.657 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:37:50.706 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:37:50.801 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:37:50.851 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:37:50.912 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:37:55.093 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:37:55.142 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:38:02.997 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:38:05.267 [main] INFO  testCases.TC007SearchLoan - ***Click on toggle user dropdown***
+17:38:06.275 [main] INFO  testCases.TC007SearchLoan - ***Click on logout button***
+17:38:09.842 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:38:10.217 [main] INFO  testCases.TC008DateFilterTest - ****Open Browser****
+17:38:11.187 [main] INFO  testCases.TC008DateFilterTest - ***Delete All Cookies***
+17:38:12.701 [main] INFO  testCases.TC008DateFilterTest - ***Launch the URL***
+17:38:16.431 [main] INFO  testCases.TC008DateFilterTest - ***Maximize the browser window***
+17:38:16.580 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login link***
+17:38:16.742 [main] INFO  testCases.TC008DateFilterTest - ***Clear user name field***
+17:38:16.791 [main] INFO  testCases.TC008DateFilterTest - ***Add Username***
+17:38:16.867 [main] INFO  testCases.TC008DateFilterTest - ***Clear password field***
+17:38:16.913 [main] INFO  testCases.TC008DateFilterTest - ***Add Password***
+17:38:16.981 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login BTN***
+17:38:21.336 [main] INFO  testCases.TC008DateFilterTest - ***Validate the username in the home page***
+17:38:21.377 [main] INFO  testCases.TC008DateFilterTest - ***Switch to the workflow***
+17:38:29.187 [main] INFO  testCases.TC008DateFilterTest - ***Validate the workflow name***
+17:38:29.211 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+17:38:34.339 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+17:38:35.456 [main] INFO  testCases.TC008DateFilterTest - ***click on go button***
+17:38:37.523 [main] INFO  testCases.TC008DateFilterTest - ***Click on toggle user dropdown***
+17:38:37.585 [main] INFO  testCases.TC008DateFilterTest - ***Click on logout button***
+17:38:39.754 [main] INFO  testCases.TC008DateFilterTest - ***Close the browser***
+18:05:22.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master2.xml
+
+18:05:22.846 [main] INFO  testCases.TC001LandingPageLogoTest - ****Open Browser****
+18:05:24.971 [main] INFO  testCases.TC001LandingPageLogoTest - ***Delete All Cookies***
+18:05:26.301 [main] INFO  testCases.TC001LandingPageLogoTest - ***Launch the URL***
+18:05:29.687 [main] INFO  testCases.TC001LandingPageLogoTest - ***Maximize the browser window***
+18:05:29.809 [main] INFO  testCases.TC001LandingPageLogoTest - ***Validate the logo***
+18:05:29.875 [main] INFO  testCases.TC001LandingPageLogoTest - ***click on the login link***
+18:05:31.013 [main] INFO  testCases.TC001LandingPageLogoTest - ***Close the browser***
+18:05:31.289 [main] INFO  testCases.TC002LoginTest - ****Open Browser****
+18:05:33.003 [main] INFO  testCases.TC002LoginTest - ***Delete All Cookies***
+18:05:36.239 [main] INFO  testCases.TC002LoginTest - ***Launch the URL***
+18:05:39.783 [main] INFO  testCases.TC002LoginTest - ***Maximize the browser window***
+18:05:39.846 [main] INFO  testCases.TC002LoginTest - ***Click on Login link***
+18:05:40.069 [main] INFO  testCases.TC002LoginTest - ***Clear user name field***
+18:05:40.120 [main] INFO  testCases.TC002LoginTest - ***Add Username***
+18:05:40.196 [main] INFO  testCases.TC002LoginTest - ***Clear password field***
+18:05:40.249 [main] INFO  testCases.TC002LoginTest - ***Add Password***
+18:05:40.317 [main] INFO  testCases.TC002LoginTest - ***Click on Login BTN***
+18:05:45.218 [main] INFO  testCases.TC002LoginTest - ***Validate the username in the home page***
+18:05:46.540 [main] INFO  testCases.TC002LoginTest - ***Click on toggle user dropdown***
+18:05:47.565 [main] INFO  testCases.TC002LoginTest - ***Click on logout button***
+18:05:49.254 [main] INFO  testCases.TC002LoginTest - ***Close the browser***
+18:05:49.510 [main] INFO  testCases.TC003LogoutTest - ****Open Browser****
+18:05:50.401 [main] INFO  testCases.TC003LogoutTest - ***Delete All Cookies***
+18:05:51.871 [main] INFO  testCases.TC003LogoutTest - ***Launch the URL***
+18:05:57.287 [main] INFO  testCases.TC003LogoutTest - ***Maximize the browser window***
+18:05:57.332 [main] INFO  testCases.TC003LogoutTest - ***Click on Login link***
+18:05:57.534 [main] INFO  testCases.TC003LogoutTest - ***Clear user name field***
+18:05:57.591 [main] INFO  testCases.TC003LogoutTest - ***Add Username***
+18:05:57.675 [main] INFO  testCases.TC003LogoutTest - ***Clear password field***
+18:05:57.728 [main] INFO  testCases.TC003LogoutTest - ***Add Password***
+18:05:57.791 [main] INFO  testCases.TC003LogoutTest - ***Click on Login BTN***
+18:06:03.841 [main] INFO  testCases.TC003LogoutTest - ***Validate the username in the home page***
+18:06:03.881 [main] INFO  testCases.TC003LogoutTest - ***Click on toggle user dropdown***
+18:06:03.942 [main] INFO  testCases.TC003LogoutTest - ***Click on logout button***
+18:06:06.472 [main] INFO  testCases.TC003LogoutTest - ***Close the browser***
+18:06:06.831 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ****Open Browser****
+18:06:08.083 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Delete All Cookies***
+18:06:09.749 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Launch the URL***
+18:06:12.819 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Maximize the browser window***
+18:06:12.855 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login link***
+18:06:13.038 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear user name field***
+18:06:13.090 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Username***
+18:06:13.187 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Clear password field***
+18:06:13.236 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Add Password***
+18:06:13.303 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on Login BTN***
+18:06:19.426 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Validate the username in the home page***
+18:06:19.478 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Switch to the workflow***
+18:06:24.772 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Click on toggle user dropdown***
+18:06:27.908 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Test Case Failed***
+18:06:28.067 [main] INFO  testCases.TC005SwitchToLuminateCDWWorkflowTest - ***Close the browser***
+18:06:28.316 [main] INFO  testCases.TC006SetPriorityTest - ****Open Browser****
+18:06:29.258 [main] INFO  testCases.TC006SetPriorityTest - ***Delete All Cookies***
+18:06:30.986 [main] INFO  testCases.TC006SetPriorityTest - ***Launch the URL***
+18:06:34.833 [main] INFO  testCases.TC006SetPriorityTest - ***Maximize the browser window***
+18:06:34.871 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login link***
+18:06:35.059 [main] INFO  testCases.TC006SetPriorityTest - ***Clear user name field***
+18:06:35.108 [main] INFO  testCases.TC006SetPriorityTest - ***Add Username***
+18:06:35.202 [main] INFO  testCases.TC006SetPriorityTest - ***Clear password field***
+18:06:35.248 [main] INFO  testCases.TC006SetPriorityTest - ***Add Password***
+18:06:35.316 [main] INFO  testCases.TC006SetPriorityTest - ***Click on Login BTN***
+18:06:37.585 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the username in the home page***
+18:06:39.478 [main] INFO  testCases.TC006SetPriorityTest - ***Switch to the workflow***
+18:06:46.677 [main] INFO  testCases.TC006SetPriorityTest - ***Validate the workflow name***
+18:06:46.695 [main] INFO  testCases.TC006SetPriorityTest - ***Click On Set Priority Link***
+18:06:49.537 [main] INFO  testCases.TC006SetPriorityTest - ***Test Case Failed***
+18:06:49.689 [main] INFO  testCases.TC006SetPriorityTest - ***Close the browser***
+18:06:49.974 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:06:51.117 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:06:52.610 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:06:56.335 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:06:56.367 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:06:56.551 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:06:56.612 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:06:56.749 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:06:56.795 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:06:56.865 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:06:59.135 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:06:59.835 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:07:07.081 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:07:10.328 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:07:10.503 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:07:10.794 [main] INFO  testCases.TC008DateFilterTest - ****Open Browser****
+18:07:11.830 [main] INFO  testCases.TC008DateFilterTest - ***Delete All Cookies***
+18:07:13.261 [main] INFO  testCases.TC008DateFilterTest - ***Launch the URL***
+18:07:17.487 [main] INFO  testCases.TC008DateFilterTest - ***Maximize the browser window***
+18:07:17.519 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login link***
+18:07:17.825 [main] INFO  testCases.TC008DateFilterTest - ***Clear user name field***
+18:07:17.872 [main] INFO  testCases.TC008DateFilterTest - ***Add Username***
+18:07:17.948 [main] INFO  testCases.TC008DateFilterTest - ***Clear password field***
+18:07:17.993 [main] INFO  testCases.TC008DateFilterTest - ***Add Password***
+18:07:18.079 [main] INFO  testCases.TC008DateFilterTest - ***Click on Login BTN***
+18:07:20.352 [main] INFO  testCases.TC008DateFilterTest - ***Validate the username in the home page***
+18:07:23.600 [main] INFO  testCases.TC008DateFilterTest - ***Switch to the workflow***
+18:07:32.459 [main] INFO  testCases.TC008DateFilterTest - ***Validate the workflow name***
+18:07:32.477 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+18:07:37.598 [main] INFO  testCases.TC008DateFilterTest - ***add the from date***
+18:07:38.714 [main] INFO  testCases.TC008DateFilterTest - ***click on go button***
+18:07:40.784 [main] INFO  testCases.TC008DateFilterTest - ***Click on toggle user dropdown***
+18:07:40.878 [main] INFO  testCases.TC008DateFilterTest - ***Click on logout button***
+18:07:42.934 [main] INFO  testCases.TC008DateFilterTest - ***Close the browser***
+17:28:43.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:28:44.107 [main] INFO  testCases.TC001LandingPageLogoTest - ****Open Browser****
+17:28:52.192 [main] INFO  testCases.TC001LandingPageLogoTest - ***Delete All Cookies***
+17:28:53.071 [main] INFO  testCases.TC001LandingPageLogoTest - ***Launch the URL***
+17:29:20.579 [main] INFO  testCases.TC001LandingPageLogoTest - ***Maximize the browser window***
+17:29:20.877 [main] INFO  testCases.TC001LandingPageLogoTest - ***Validate the logo***
+17:29:20.921 [main] INFO  testCases.TC001LandingPageLogoTest - ***click on the login link***
+17:29:22.034 [main] INFO  testCases.TC001LandingPageLogoTest - ***Close the browser***
+17:30:14.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:30:15.172 [main] INFO  testCases.TC001LandingPageLogoTest - ****Open Browser****
+17:30:16.690 [main] INFO  testCases.TC001LandingPageLogoTest - ***Delete All Cookies***
+17:30:17.768 [main] INFO  testCases.TC001LandingPageLogoTest - ***Launch the URL***
+17:30:21.141 [main] INFO  testCases.TC001LandingPageLogoTest - ***Maximize the browser window***
+17:30:21.342 [main] INFO  testCases.TC001LandingPageLogoTest - ***Validate the logo***
+17:30:21.370 [main] INFO  testCases.TC001LandingPageLogoTest - ***click on the login link***
+17:30:22.480 [main] INFO  testCases.TC001LandingPageLogoTest - ***Close the browser***
+17:37:40.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:37:40.600 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:37:42.037 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:37:43.072 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:37:46.614 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:37:46.788 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:37:46.913 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:37:46.963 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:37:47.038 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:37:47.092 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:37:47.157 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:37:57.978 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:37:58.024 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:38:04.366 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:38:19.944 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:38:20.062 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:45:16.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:45:16.741 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:45:18.224 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:45:19.571 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:45:23.167 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:45:23.347 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:45:23.482 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:45:23.534 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:45:23.617 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:45:23.667 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:45:23.734 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:45:26.054 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:45:27.972 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:45:35.132 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:45:50.227 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:45:50.393 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:50:25.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:50:25.886 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:50:27.274 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:50:28.864 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:50:32.941 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:50:33.122 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:50:33.292 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:50:33.350 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:50:33.429 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:50:33.477 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:50:33.539 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:50:35.946 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:50:38.924 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:50:46.277 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:51:01.400 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:51:01.536 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:52:26.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:52:26.346 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:52:27.707 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:52:29.097 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:52:32.335 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:52:32.522 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:52:32.668 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:52:32.711 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:52:32.789 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:52:32.834 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:52:32.896 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:52:35.276 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:52:37.143 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:52:44.347 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:52:59.876 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:53:00.021 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:55:38.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:55:38.766 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:55:40.182 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:55:41.650 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:55:45.245 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:55:45.414 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:55:45.550 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:55:45.600 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:55:45.678 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:55:45.724 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:55:45.796 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:55:48.634 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:55:51.541 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:55:58.955 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+17:56:14.073 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:56:14.214 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+17:58:25.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+17:58:25.940 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+17:58:27.362 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+17:58:29.087 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+17:58:35.351 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+17:58:35.547 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+17:58:35.692 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+17:58:35.746 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+17:58:35.824 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+17:58:35.873 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+17:58:35.937 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+17:58:38.327 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+17:58:43.776 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+17:59:06.427 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+17:59:06.569 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:01:05.878 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:01:06.133 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:01:07.645 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:01:08.655 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:01:13.545 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:01:13.744 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:01:13.881 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:01:13.926 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:01:14.004 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:01:14.061 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:01:14.134 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:01:16.480 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:01:19.045 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:01:26.279 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:01:26.313 [main] INFO  testCases.TC007SearchLoan - ***Search the loan***
+18:01:26.819 [main] INFO  testCases.TC007SearchLoan - ***Validate the serched loan in the search page***
+18:01:28.932 [main] INFO  testCases.TC007SearchLoan - ***Click on toggle user dropdown***
+18:01:29.949 [main] INFO  testCases.TC007SearchLoan - ***Click on logout button***
+18:01:32.826 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:03:05.375 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:03:05.622 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:03:07.010 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:03:08.280 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:03:12.490 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:03:12.645 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:03:12.765 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:03:12.820 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:03:12.902 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:03:12.952 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:03:13.016 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:03:19.255 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:03:19.295 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:03:25.703 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:03:40.904 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:03:41.059 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:04:18.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:04:18.401 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:04:19.851 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:04:21.272 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:04:24.623 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:04:24.793 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:04:24.915 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:04:24.964 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:04:25.052 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:04:25.098 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:04:25.160 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:04:27.501 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:04:28.741 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:04:35.887 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:04:54.402 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:04:54.534 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:05:30.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:05:30.509 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:05:31.803 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:05:32.786 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:05:39.355 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:05:39.505 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:05:39.624 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:05:39.678 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:05:39.760 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:05:39.806 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:05:39.872 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:05:42.203 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:05:45.312 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:05:52.480 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:06:11.064 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:06:11.228 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:06:49.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:06:49.272 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:06:50.766 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:06:51.793 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:06:56.756 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:06:56.892 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:06:57.024 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:06:57.079 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:06:57.155 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:06:57.210 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:06:57.280 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:06:59.640 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:07:01.957 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:07:09.242 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:07:27.646 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:07:27.662 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:09:08.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:09:08.345 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:09:09.769 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:09:10.945 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:09:15.227 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:09:15.404 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:09:15.535 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:09:15.584 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:09:15.665 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:09:15.715 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:09:15.774 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:09:18.310 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:09:19.814 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:09:26.994 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:09:45.134 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:09:45.272 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:15:18.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:15:19.140 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:15:20.613 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:15:21.697 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:15:25.120 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:15:25.291 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:15:25.829 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:16:20.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:16:20.331 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:16:21.717 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:16:22.765 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:16:26.981 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:16:27.134 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:16:27.255 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:16:27.307 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:16:27.390 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:16:27.447 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:16:27.519 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:16:29.910 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:16:33.296 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:16:40.581 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:17:00.820 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:17:00.956 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:18:14.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:18:14.409 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:18:15.814 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:18:17.051 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:18:20.270 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:18:20.478 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:18:20.608 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:18:20.654 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:18:20.733 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:18:20.806 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:18:20.876 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:18:23.441 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:18:23.976 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:18:31.245 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:18:31.273 [main] INFO  testCases.TC007SearchLoan - ***Click on the workflow menu***
+18:18:48.845 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:18:48.965 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:20:10.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:20:10.370 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:20:11.742 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:20:13.112 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:20:16.645 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:20:16.813 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:20:16.935 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:20:16.982 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:20:17.058 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:20:17.102 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:20:17.169 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:20:19.514 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:20:23.726 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:20:31.838 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:20:31.855 [main] INFO  testCases.TC007SearchLoan - ***Click on the workflow menu***
+18:20:33.921 [main] INFO  testCases.TC007SearchLoan - ***Create the object***
+18:20:49.055 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:20:49.217 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:22:05.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:22:05.319 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:22:06.833 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:22:07.949 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:22:11.453 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:22:11.631 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:22:11.757 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:22:11.808 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:22:11.887 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:22:11.938 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:22:12.001 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:22:14.339 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:22:24.687 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:22:31.889 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:22:31.906 [main] INFO  testCases.TC007SearchLoan - ***Click on the workflow menu***
+18:22:34.013 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:22:34.213 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:23:53.565 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:23:53.804 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:23:55.096 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:23:56.564 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:24:28.547 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:24:28.702 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:24:28.823 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:24:28.879 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:24:28.957 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:24:29.007 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:24:29.070 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:25:09.516 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:25:23.500 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:25:31.877 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:25:31.895 [main] INFO  testCases.TC007SearchLoan - ***Click on the workflow menu***
+18:25:35.834 [main] INFO  testCases.TC007SearchLoan - ***Create the object***
+18:25:51.374 [main] INFO  testCases.TC007SearchLoan - ***Test Case Failed***
+18:25:51.518 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:27:15.899 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:27:16.131 [main] INFO  testCases.TC007SearchLoan - ****Open Browser****
+18:27:17.431 [main] INFO  testCases.TC007SearchLoan - ***Delete All Cookies***
+18:27:18.748 [main] INFO  testCases.TC007SearchLoan - ***Launch the URL***
+18:27:31.884 [main] INFO  testCases.TC007SearchLoan - ***Maximize the browser window***
+18:27:32.037 [main] INFO  testCases.TC007SearchLoan - ***Click on Login link***
+18:27:32.170 [main] INFO  testCases.TC007SearchLoan - ***Clear user name field***
+18:27:32.226 [main] INFO  testCases.TC007SearchLoan - ***Add Username***
+18:27:32.310 [main] INFO  testCases.TC007SearchLoan - ***Clear password field***
+18:27:32.361 [main] INFO  testCases.TC007SearchLoan - ***Add Password***
+18:27:32.432 [main] INFO  testCases.TC007SearchLoan - ***Click on Login BTN***
+18:27:41.844 [main] INFO  testCases.TC007SearchLoan - ***Validate the username in the home page***
+18:27:52.197 [main] INFO  testCases.TC007SearchLoan - ***Switch to the workflow***
+18:28:00.551 [main] INFO  testCases.TC007SearchLoan - ***Validate the workflow name***
+18:28:00.570 [main] INFO  testCases.TC007SearchLoan - ***Click on the workflow menu***
+18:28:04.636 [main] INFO  testCases.TC007SearchLoan - ***Create the object***
+18:28:04.638 [main] INFO  testCases.TC007SearchLoan - ***Object created***
+18:28:04.638 [main] INFO  testCases.TC007SearchLoan - ***Search the loan***
+18:28:05.206 [main] INFO  testCases.TC007SearchLoan - ***Validate the serched loan in the search page***
+18:28:07.176 [main] INFO  testCases.TC007SearchLoan - ***Click on toggle user dropdown***
+18:28:08.187 [main] INFO  testCases.TC007SearchLoan - ***Click on logout button***
+18:28:11.905 [main] INFO  testCases.TC007SearchLoan - ***Close the browser***
+18:34:21.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Debabrata Rout\Eclipse Workplace\MyProjectV001\master.xml
+
+18:34:21.471 [main] INFO  testCases.TC001LandingPageLogoTest - ****Open Browser****
+18:34:32.881 [main] INFO  testCases.TC001LandingPageLogoTest - ***Delete All Cookies***
+18:34:34.444 [main] INFO  testCases.TC001LandingPageLogoTest - ***Launch the URL***
+18:34:39.328 [main] INFO  testCases.TC001LandingPageLogoTest - ***Maximize the browser window***
+18:34:39.488 [main] INFO  testCases.TC001LandingPageLogoTest - ***Validate the logo***

@@ -1,5 +1,7 @@
 package testCases;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -29,21 +31,21 @@ public class TC002LoginTest extends BaseClass{
 			lp.passwordNameField.sendKeys(p.getProperty("password"));
 			logger.info("***Click on Login BTN***");
 			lp.loginBTN.click();
-			Thread.sleep(4000);
+			
+			
 		
-			/*	if(lp.confirmationMSGValidation()==true)
+			if(lp.confirmationMSGValidation()==true)
 				{
 					logger.info("***Click on ok BTN***");
 					lp.clickOnOkBTN();
 					Thread.sleep(2000);
 				}
-				else if(lp.loginFailedMSGTest()==true)
-				{
-					logger.info("Incorrect Credential");
-				}*/
 			
+			else {
+				logger.info("No Current session");
+			    }
 			WorkflowPageORHomePage whp=new WorkflowPageORHomePage(driver);
-			logger.info("***Validate the username in the home page***");
+		    logger.info("***Validate the username in the home page***");
 				if(whp.getUserName().equals(p.getProperty("userName")))
 				{
 					System.out.println(whp.getUserName());
@@ -52,6 +54,8 @@ public class TC002LoginTest extends BaseClass{
 					logger.info("***Click on logout button***");
 					whp.btn_Logout.click();
 				}
+				Assert.assertEquals(landingPage.logoTest(), true);
+			
             }
 		
 		

@@ -1,8 +1,13 @@
 package pageObjects;
 
+import java.time.Duration;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import testBase.BasePage;
 
@@ -13,14 +18,24 @@ public class LoginPage extends BasePage{
 	 super(driver);
 	}
 	
-	@FindBy (xpath="//h4[text()='Login']")
-	public WebElement loginText;
-	@FindBy(xpath="//input[@id='UserName']")
-	public WebElement userNameField;
-	@FindBy(xpath="//input[@id='txtPwd']")
-	public WebElement passwordNameField;
-	@FindBy(xpath="//input[@value='Log in']")
-	public WebElement loginBTN;
+    WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(15));
+	
+    public WebElement loginText=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h4[text()='Login']"))); 
+	//@FindBy (xpath="//h4[text()='Login']")
+	//public WebElement loginText;
+	
+	public WebElement userNameField=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='UserName']")));
+	//@FindBy(xpath="//input[@id='UserName']")
+	//public WebElement userNameField;
+	
+	public WebElement passwordNameField=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='txtPwd']")));
+	//@FindBy(xpath="//input[@id='txtPwd']")
+	//public WebElement passwordNameField;
+	
+	public WebElement loginBTN=wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@value='Log in']")));
+	//@FindBy(xpath="//input[@value='Log in']")
+	//public WebElement loginBTN;
+	
 	@FindBy(xpath="//div[normalize-space()='You have already logged into AuditGenius."
 			+ " Would you like to close the existing session and continue with this new session ?']") 
 	WebElement msg_Confirmation;

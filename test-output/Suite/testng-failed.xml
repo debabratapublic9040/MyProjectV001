@@ -8,13 +8,13 @@
     <parameter name="os" value="window"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC001LandingPageLogoTest">
+      <class name="testCases.TC006SetPriorityTest">
         <methods>
-          <include name="logo_test"/>
           <include name="setUp"/>
+          <include name="setPriorityTest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- testCases.TC001LandingPageLogoTest -->
+      </class> <!-- testCases.TC006SetPriorityTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
